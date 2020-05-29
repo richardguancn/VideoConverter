@@ -9,3 +9,7 @@
 <u>感谢：</u>
 
 1. [ffmpeg](https://www.ffmpeg.org)提供的视频转换技术；
+
+
+<u>直接下载工具安装包：</u>
+[下载安装包](https://github.com/richardguancn/videoFormatter/blob/master/videoFormatterSetup.7z?raw=true)
